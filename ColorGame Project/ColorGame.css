@@ -1,0 +1,19 @@
+.container{
+max-width: 600px;
+	margin:0 auto;
+}
+
+h1{
+	color:white;
+}
+body{
+	background-color: #232323;
+}
+
+.square{
+	float: left;
+	background-color: purple;
+	margin:1.44%;
+	width:30%;
+	height: 200px;
+}

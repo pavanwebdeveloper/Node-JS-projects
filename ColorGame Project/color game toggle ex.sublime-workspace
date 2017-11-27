@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"pik",
+				"pickedColor"
+			],
+			[
+				"clik",
+				"clicked"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fis",
+				"firstnameProperty"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"col",
+				"colorDisplay"
+			],
+			[
+				"rand",
+				"randomPickColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"sq",
+				"squares"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"picked",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"clicked",
+				"clickedColor"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"clic",
+				"clickedColor"
+			],
+			[
+				"color",
+				"colorDisaply"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"wi",
+				"winningScoreDisplay"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"winner",
+				"winningScore"
+			],
+			[
+				"p1",
+				"p1Display"
+			],
+			[
+				"p1S",
+				"p1Score"
+			],
+			[
+				"P1",
+				"p1Score"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"t",
+				"todo"
+			],
+			[
+				"To",
+				"ToDo"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"c",
+				"color-dodge"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"image",
+				"border-image-width"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"Ce",
+				"celcius"
+			],
+			[
+				"temp",
+				"Temperature"
+			],
+			[
+				"f",
+				"Farhenite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/index.html",
+			"settings":
+			{
+				"buffer_size": 934,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/css/ToDo.css",
+			"settings":
+			{
+				"buffer_size": 775,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<title >Demo</title>\n\n\t<link rel=\"stylesheet\" type=\"text/css\" href=\"demo.css\">\n\t<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\" integrity=\"sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u\" crossorigin=\"anonymous\">\n</head>\n\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod\ntempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,\nquis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo\nconsequat. Duis aute irure dolor in reprehenderit in voluptate velit esse\ncillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non\nproident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n<body>\n<nav class=\"navbar navbar-default\">\n  <div class=\"container-fluid\">\n    <!-- Brand and toggle get grouped for better mobile display -->\n    <div class=\"navbar-header\">\n      <button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#bs-example-navbar-collapse-1\" aria-expanded=\"false\">\n        <span class=\"sr-only\">Toggle navigation</span>\n        <span class=\"icon-bar\"></span>\n        <span class=\"icon-bar\"></span>\n        <span class=\"icon-bar\"></span>\n      </button>\n      <a class=\"navbar-brand\" href=\"#\">Brand</a>\n    </div>\n\n    <!-- Collect the nav links, forms, and other content for toggling -->\n    <div class=\"collapse navbar-collapse\" id=\"bs-example-navbar-collapse-1\">\n      <ul class=\"nav navbar-nav\">\n        <li class=\"active\"><a href=\"#\">Link <span class=\"sr-only\">(current)</span></a></li>\n        <li><a href=\"#\">Link</a></li>\n        <li class=\"dropdown\">\n          <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown <span class=\"caret\"></span></a>\n          <ul class=\"dropdown-menu\">\n            <li><a href=\"#\">Action</a></li>\n            <li><a href=\"#\">Another action</a></li>\n            <li><a href=\"#\">Something else here</a></li>\n            <li role=\"separator\" class=\"divider\"></li>\n            <li><a href=\"#\">Separated link</a></li>\n            <li role=\"separator\" class=\"divider\"></li>\n            <li><a href=\"#\">One more separated link</a></li>\n          </ul>\n        </li>\n      </ul>\n      <form class=\"navbar-form navbar-left\">\n        <div class=\"form-group\">\n          <input type=\"text\" class=\"form-control\" placeholder=\"Search\">\n        </div>\n        <button type=\"submit\" class=\"btn btn-default\">Submit</button>\n      </form>\n      <ul class=\"nav navbar-nav navbar-right\">\n        <li><a href=\"#\">Link</a></li>\n        <li class=\"dropdown\">\n          <a href=\"#\" class=\"dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\" aria-haspopup=\"true\" aria-expanded=\"false\">Dropdown <span class=\"caret\"></span></a>\n          <ul class=\"dropdown-menu\">\n            <li><a href=\"#\">Action</a></li>\n            <li><a href=\"#\">Another action</a></li>\n            <li><a href=\"#\">Something else here</a></li>\n            <li role=\"separator\" class=\"divider\"></li>\n            <li><a href=\"#\">Separated link</a></li>\n          </ul>\n        </li>\n      </ul>\n    </div><!-- /.navbar-collapse -->\n  </div><!-- /.container-fluid -->\n</nav>\n<h1 class=\"jumbotron democlass\">Demo</h1>\n<ul>\n\t<li>Post 1</li>\n\t<li>Post 1</li>\n\t<li id=\"thirdlist\">Post 1</li>\n\t<li class=\"democlass\">Post 1</li>\n\t<li class=\"democlass\">Post 1</li>\n\t<li class=\"democlass\">Post 1</li>\n\t<li class=\"democlass\">Post 1</li>\n</ul>\n\n<br>\n\n<input type=\"button\" name=\"Submit\" placeholder=\"Submit\">\n</body>\n</html>",
+			"file": "/C/Users/IBM_ADMIN/Desktop/demo.html",
+			"file_size": 3237,
+			"file_write_time": 131514445068364234,
+			"settings":
+			{
+				"buffer_size": 4052,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/matrix.py",
+			"settings":
+			{
+				"buffer_size": 283,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/demo.css",
+			"settings":
+			{
+				"buffer_size": 153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/hell0.py",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/hello.py",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/js/ToDo.js",
+			"settings":
+			{
+				"buffer_size": 559,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: __magic__"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/IBM_ADMIN/Desktop/ToDoListProject",
+		"/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets",
+		"/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/js",
+		"/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/js/lib"
+	],
+	"file_history":
+	[
+		"/C/Users/IBM_ADMIN/Desktop/app.js",
+		"/C/Users/IBM_ADMIN/Desktop/colorgame.css",
+		"/C/Users/IBM_ADMIN/Desktop/RGBGame.JS",
+		"/C/Users/IBM_ADMIN/Desktop/Color game redo/game.js",
+		"/C/Users/IBM_ADMIN/Desktop/Color game redo/game.html",
+		"/C/Users/IBM_ADMIN/Desktop/RGBColor Game.html",
+		"/C/Users/IBM_ADMIN/Desktop/Color game redo/game.css",
+		"/C/Users/IBM_ADMIN/Desktop/jQuery  Demo/jQuery.html",
+		"/C/Users/IBM_ADMIN/Desktop/ColorGame Project/ColorGame.html",
+		"/C/Users/IBM_ADMIN/Desktop/app.html",
+		"/C/Users/IBM_ADMIN/Desktop/ColorGame Project/ColorGame.js",
+		"/C/Users/IBM_ADMIN/Desktop/ColorGame Project/ColorGame.css",
+		"/C/Users/IBM_ADMIN/Desktop/scoreKeeper.css",
+		"/C/Users/IBM_ADMIN/Desktop/scoreKeeper.js",
+		"/C/Users/IBM_ADMIN/Desktop/scorekeeper.html",
+		"/C/Users/IBM_ADMIN/Desktop/game.js",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/project.css",
+		"/C/Users/IBM_ADMIN/Desktop/color.js",
+		"/C/Users/IBM_ADMIN/Desktop/ToDo.js",
+		"/C/Users/IBM_ADMIN/Desktop/arrayProblem.js",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/cnn.html",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/bootstrap nav.html",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/bootstrap project.html",
+		"/C/Users/IBM_ADMIN/Desktop/Guess.html",
+		"/C/Users/IBM_ADMIN/Desktop/ToDo.html",
+		"/C/Users/IBM_ADMIN/Desktop/array Problem.html",
+		"/C/Users/IBM_ADMIN/Desktop/color game toggle ex.html",
+		"/C/Users/IBM_ADMIN/Desktop/dom1.html",
+		"/C/Users/IBM_ADMIN/Desktop/functionproblemset.js",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/IBM_ADMIN/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"Study",
+			"Go",
+			"Buy",
+			"Go",
+			"clickedColor",
+			"typeof",
+			"blue",
+			"colorDisplay",
+			"NumberOfColors",
+			"randomColors",
+			"randomPickColor",
+			");\n",
+			"clickedColor",
+			"randomPickColor",
+			"pickedColor",
+			"randomPickColor",
+			"colors",
+			"\n<",
+			"winningScore",
+			"});\n",
+			"alert(\"cliked\");",
+			"\t\t      ",
+			"starPos",
+			"){\n",
+			"found",
+			")",
+			"body",
+			"project",
+			"Match",
+			" </"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								934,
+								934
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/css/ToDo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/IBM_ADMIN/Desktop/demo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1223,
+								329
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/IBM_ADMIN/Desktop/matrix.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/IBM_ADMIN/Desktop/demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/IBM_ADMIN/Desktop/hell0.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/IBM_ADMIN/Desktop/hello.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/IBM_ADMIN/Desktop/ToDoListProject/assets/js/ToDo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.965517241379,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "color game toggle ex.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

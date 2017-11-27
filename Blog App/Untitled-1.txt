@@ -1,0 +1,29 @@
+ db.moviesScratch.insertMany(
+[{
+         "_id" : "tt0084727",
+         "title" : "Star Trek II: The Wrath of Khan",
+         "year" : 1982,
+         "type" : "movie"
+ },
+ {
+         "_id" : "tt0117733",
+         "title" : "Star Trek: First Contact",
+         "year" : 1996,
+         "type" : "movie"
+ },
+ {
+         "_id" : "tt0796366",
+         "title" : "Star Trek",
+         "year" : 2009,
+         "type" : "movie"
+ },
+ {
+         "_id" : "tt1408111",
+         "title" : "Star Trek Into Darkness",
+         "year" : 2013,
+         "type" : "movie"
+ }
+],
+{
+    "ordered" : "false"
+})
